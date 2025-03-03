@@ -3,13 +3,7 @@
 This Unity project implements a boids flocking system combined with a custom Bezier path System. It uses a CPU-based docking algorithm to guide boids to dock or align with designated positions along a precomputed path.
 
 
-<video width="640" height="360" controls>
-
-  <source src="https://github.com/payam-ranjbar/Flocking-Boids-System-Unity/blob/main/Demo.mp4" type="video/mp4">
-
-  Your browser does not support the video tag.
-
-</video>
+https://github.com/payam-ranjbar/Flocking-Boids-System-Unity/blob/main/Demo.mp4
 
 ## Features
 - **Flocking Boids**
