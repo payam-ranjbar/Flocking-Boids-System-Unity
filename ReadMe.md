@@ -12,7 +12,6 @@ This Unity project implements a boids flocking system combined with a custom Bez
 </video>
 
 ## Features
-<video width="640" height="360" controls>
 - **Flocking Boids**
   - Simulates natural flocking behavior using individual boid agents.
   - Implements steering, avoidance, alignment, and cohesion rules.
